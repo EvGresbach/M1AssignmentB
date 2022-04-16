@@ -1,0 +1,15 @@
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\bin\Debug\net6.0\M1AssignmentB.exe
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\bin\Debug\net6.0\M1AssignmentB.deps.json
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\bin\Debug\net6.0\M1AssignmentB.runtimeconfig.json
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\bin\Debug\net6.0\M1AssignmentB.dll
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\bin\Debug\net6.0\M1AssignmentB.pdb
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.csproj.AssemblyReference.cache
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.AssemblyInfoInputs.cache
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.AssemblyInfo.cs
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.csproj.CoreCompileInputs.cache
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.dll
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\refint\M1AssignmentB.dll
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.pdb
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\M1AssignmentB.genruntimeconfig.cache
+C:\Users\evxin\OneDrive\Desktop\WCTC\Spring2022\MobileAppDev\M1AssignmentB\obj\Debug\net6.0\ref\M1AssignmentB.dll
