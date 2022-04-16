@@ -32,9 +32,9 @@ namespace M1AssignmentB
             
             _outFile.FileClose(); 
 
-            FileInput _inFile = new FileInput("animals.txt");
-            _inFile.FileRead(); 
-            _inFile.FileClose(); 
+            FileInput inFile = new FileInput("animals.txt");
+            inFile.FileRead(); 
+            inFile.FileClose(); 
 
             FileInput inData = new FileInput("animals.txt"); 
             string line; 
